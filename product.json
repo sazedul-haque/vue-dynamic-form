@@ -1,0 +1,89 @@
+{
+	"name"						:	"Apple X20",
+	"excerpt"					:	"appple phone is the best phone in the world.",
+	"brand"						:	"Apple",
+	"category"					:	"Mobile",
+	"type"						:	["Smartphone","Featured Phone", "Selfi Phone"],
+	"series"					:	["iPhone"],
+	"os"						:	"IOS",
+	"sim"						:	["Single Sim", "Nano Sim"],
+	"storage"					:	["3 GB"],
+	"ram"						:	["2 GB"],
+	"displaySize"				:	["5.5 Inch"],
+	"mainCamera"				:	"25 MP",
+	"frontCamera"				:	"10 MP",
+	"shape"						:	"Bar",
+	"waterResistant"			:	"Yes",
+	"batterymAh"				:	"2200 mAh",
+	"color"						:	["Blue", "Purple", "Pink", "Yellow"],
+
+	"specification":{
+		
+		"Type": {
+			"Type": ["Smartphone","Featured Phone", "Camera Phone", "Budget Phone"],
+			"Shape": ["Bar"]
+		},
+		
+		"Basic": {
+			"OS": ["Android"],
+			"OS Version": ["Color OS 5.1, based on Android 8.1"],
+			"SIM"	: ["Single SIM", "Nano SIM"],
+			"CPU"	: ["Qualcomm Snapdragon 450", "Octa core"],
+			"Storage": ["16 GB", "32 GB"],
+			"RAM"	:	["2GB", "3GB"],
+			"Battery":	["4230mAh"]
+		},
+		
+		"Screen": {
+			"Display Size"	: ["6.2 inches"],
+			"Resolution"	: ["HD+ (1520 x 720 pixels)"]
+		},
+		
+		"Network":	{
+			"Type"		: [" 2G , 3G , 4G (LTE)"],
+			"2G"		: ["GSM: 850 / 900 / 1800 / 1900"],
+			"3G"		: ["WCDMA: 850 / 900 / 2100"],
+			"4G (LTE)"	: ["FDD-LTE: 1/ 3/ 5/ 7/ 8/ 20/ 28", "TD-LTE: Bands 38/40/41 (2535-2655MHz)"]
+		},
+		
+		"Camera":   {
+			"Main Camera" : ["13MP + 2MP"],
+			"Front Camera": ["8MP"]
+		},
+		
+		"Others":   {
+			"Features": ["Wi-Fi , GPS , Bluetooth , Flash , Face Unlock , Dual Cameras"]
+		},
+		
+		"Size": {
+			"Dimensions": ["156.2 x 75.6 x 8.2 mm"],
+			"Weight"	: ["168 g"]
+		}
+		
+	},
+	
+	"description"	: "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of  (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem ",
+	
+	"seo":{
+			"meta_title"	:	"Meta Title Here", 
+			"meta_keywords": ["Meta One", "Meta Two", "Meta Three"],
+			"meta_description": "Meta Description Here"
+	},
+	
+	"images":{
+				"thumb"	:	"http://placekitten.com/g/300/300",
+				"slider_images" : ["http://placekitten.com/g/300/301", "http://placekitten.com/g/300/302", "http://placekitten.com/g/300/303"]
+	},
+		
+	"urls":	{
+				"offical_website_url"	:	"https://oppo.com/a7",
+				"youtube_video_id" : ["Yp6UQXu4rPI", "S8OutK3DbO4"],
+				"compare_products_slug" : ["nokia-76a", "oppo-a7"] 
+	},
+	
+		
+	"others":{
+				
+	}
+
+}
